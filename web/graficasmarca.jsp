@@ -22,5 +22,8 @@ and open the template in the editor.
         <div class="centrargraficasmarcas">
         <img src="imagenes/tortaejemplo.jpg">
         </div>
+        
+        <br>
+        <a href="tecnico.jsp"><center><button type="button" class="btn btn-secondary">Volver</button></center></a>
     </body>
 </html>

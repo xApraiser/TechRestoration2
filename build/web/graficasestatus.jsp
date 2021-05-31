@@ -65,7 +65,9 @@ and open the template in the editor.
             <h2>Productos </h2>
         </td>
             </tr>
-      </table>    
+      </table> 
+      <br>
+       <a href="tecnico.jsp"><center><button type="button" class="btn btn-secondary">Volver</button></center></a>
 </body><!-- comment -->
 </html><!-- comment -->
     

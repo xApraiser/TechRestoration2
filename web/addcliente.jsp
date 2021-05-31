@@ -66,7 +66,7 @@
 
 </form>
   <br>
-  <a href="index.html"><center><button type="button" class="btn btn-secondary">Volver</button></center></a>
+  <a href="recepcionista.jsp"><center><button type="button" class="btn btn-secondary">Volver</button></center></a>
     
     
     

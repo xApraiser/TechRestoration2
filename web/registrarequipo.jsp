@@ -27,7 +27,7 @@
     <label for="validationCustom01" class="form-label">Nombre</label>
     <input type="text" class="form-control" id="validationCustom01"  required>
     <div class="valid-feedback">
-      ✔✔
+      
     </div>
     
    
@@ -42,7 +42,7 @@
     <label for="validationCustom03" class="form-label">Marca</label>
     <input type="text" class="form-control" id="validationCustom03" required>
     <div class="invalid-feedback">
-      Ingrese un número de telefono válido.
+      Ingrese un numero de telefono valido.
     </div>
   </div>
         <br>
@@ -50,7 +50,7 @@
     <label for="validationCustom03" class="form-label">Modelo</label>
     <input type="text" class="form-control" id="validationCustom03" required>
     <div class="invalid-feedback">
-      Ingrese una dirección válida.
+      Ingrese una direccion valida.
     </div>
   </div>
                 <br>
@@ -58,7 +58,7 @@
     <label for="validationCustom03" class="form-label">N° De Serie</label>
     <input type="text" class="form-control" id="validationCustom03"  required>
     <div class="invalid-feedback">
-      Ingrese una dirección válida.
+      Ingrese una direccion valida.
     </div>
   </div>
         
@@ -70,7 +70,7 @@
 
 </form>
   <br>
-  <a href="index.html"><center><button type="button" class="btn btn-secondary">Volver</button></center></a>
+  <a href="recepcionista.jsp"><center><button type="button" class="btn btn-secondary">Volver</button></center></a>
     
     
     

@@ -9,12 +9,13 @@ and open the template in the editor.
         <title>TODO supply a title</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <link href="diseno.css" rel="stylesheet" type="text/css">
+        <link href="diseno.css" rel="stylesheet" type="text/css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+        <link href="css/csstech.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <div><center><h1 class="letrastitulos">Informacion de equipo </h1></center></div>
-    </body>
-   
+        <br>
     <center>
         <table>
             <div class="container-forminfoequipo">
@@ -124,5 +125,11 @@ and open the template in the editor.
             </tr>
         </table>
     </center>
-    
+
+    <br>
+    <a href="tecnico.jsp"><center><button type="button" class="btn btn-secondary">Volver</button></center></a>
+</body>
+
+
+
 </html>
